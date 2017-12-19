@@ -1,0 +1,15 @@
+{
+  "name": "jgsmogger-bot",
+  "version": "1.0.0",
+  "description": "Smogger Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juri Guljajev",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
